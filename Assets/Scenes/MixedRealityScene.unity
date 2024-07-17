@@ -2474,6 +2474,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Frame
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 171affcd2d7ddf545ae966acd2de57c2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4387676272040780315, guid: 171affcd2d7ddf545ae966acd2de57c2, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
